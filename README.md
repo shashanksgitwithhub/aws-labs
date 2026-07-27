@@ -2,10 +2,10 @@
   <img src="https://img.shields.io/badge/AWS-4285F4?style=for-the-badge&logo=icloud&logoColor=white" />
 </p>
 
-# AWS-Cloud-Learning-Journey-by-Shashank-TJ
+# AWS-Cloud-Learning-Journey
 My hands-on AWS, DevOps, Linux, and Cloud Computing learning journey.
 
-# ☁ AWS Cloud by Shashank TJ
+# ☁ AWS Cloud 
 
 ## About Me
 
@@ -72,3 +72,16 @@ To become a Cloud Engineer / AWS Engineer / DevOps Engineer by building strong p
 * Day 19 - CloudWatch
 * Day 20 - Route 53
 * Day 21 - DynamoDB
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shashank-tj-s050724/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shashank%20TJ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/shashanksgitwithhub">
+    <img src="https://img.shields.io/badge/GitHub-shashanksgitwithhub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
