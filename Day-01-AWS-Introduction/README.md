@@ -246,12 +246,11 @@ An Availability Zone is one or more isolated data centers within an AWS Region.
 
 # Screenshots
 
-Add screenshots here:
-
-* AWS Console Dashboard
-* AWS Regions Page
-* AWS Billing Dashboard
-* AWS Services Menu
+* AWS Console Dashboard<img width="1907" height="1011" alt="Screenshot 2026-07-27 130614" src="https://github.com/user-attachments/assets/c87a11bc-09fa-4ad0-97f3-51e8f284fd41" />
+* AWS Regions Page<img width="1906" height="1010" alt="Screenshot 2026-07-27 130651" src="https://github.com/user-attachments/assets/f55cd106-137c-4050-9f3e-162135b0feaa" />
+  <img width="1904" height="1007" alt="Screenshot 2026-07-27 130656" src="https://github.com/user-attachments/assets/b7811b2d-7d05-48b9-bf5e-cd00ccae3dbe" />
+* AWS Billing Dashboard<img width="1907" height="1010" alt="Screenshot 2026-07-27 130714" src="https://github.com/user-attachments/assets/bc1fa502-fba8-4e06-99fe-acb9a80bca2f" />
+* AWS Services Menu<img width="741" height="799" alt="Screenshot 2026-07-27 130757" src="https://github.com/user-attachments/assets/ce34a6f5-9aae-47d4-b793-b221fb32691d" />
 
 ---
 
