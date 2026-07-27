@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-blue" alt="AWS Badge">
+  <img src="https://img.shields.io/badge/AWS-4285F4?style=for-the-badge&logo=icloud&logoColor=white" />
 </p>
 
 # AWS-Cloud-Learning-Journey-by-Shashank-TJ
