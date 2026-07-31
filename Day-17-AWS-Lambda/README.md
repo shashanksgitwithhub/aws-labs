@@ -458,6 +458,9 @@ These logs help in:
   <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/c5bf3bf9-8c5a-45e8-99b6-1ec994055d38" />
 
 - CloudWatch Logs
+  
+  Start<img width="1903" height="1010" alt="Screenshot 2026-07-30 112329" src="https://github.com/user-attachments/assets/420d7e3d-c7a3-483c-89cb-8aafabb2c86c" />
+  Stop<img width="1917" height="1018" alt="Screenshot 2026-07-31 110532" src="https://github.com/user-attachments/assets/ed4d8a34-f132-4b6c-825b-5406bb27e1a5" />
 
 ---
 
