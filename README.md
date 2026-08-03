@@ -38,7 +38,7 @@ This repository documents my daily learning, practical implementations, notes, a
 ✅ AWS CLI
 ✅ AWS Lambda
 ✅ Amazon RDS and Aurora
-✅ CloudWatch
+✅ CloudWatch with SNS notification
 ✅ Route 53
 ✅ DynamoDB
 ---
@@ -69,7 +69,7 @@ To become a Cloud Engineer / AWS Engineer / DevOps Engineer by building strong p
 * Day 16 – AWS CLI
 * DAY 17 - AWS Lambda
 * Day 18 - Aurora and RDS
-* Day 19 - CloudWatch
+* Day 19 - CloudWatch with SNS notification
 * Day 20 - Route 53
 * Day 21 - DynamoDB
 
