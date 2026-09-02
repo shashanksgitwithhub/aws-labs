@@ -297,7 +297,7 @@ A Route Table contains rules that determine where network traffic is directed.
 
 ---
 
-# Screenshots to Add
+# Screenshots
 
 * VPC Dashboard<img width="1906" height="1008" alt="Screenshot 2026-07-06 194857" src="https://github.com/user-attachments/assets/65944f14-db27-48f1-ae74-3fbff7e1d020" />
 
