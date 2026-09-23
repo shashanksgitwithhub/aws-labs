@@ -11,7 +11,7 @@ Hands-on AWS Portfolio documenting my journey towards becoming a <b>Cloud Engine
 
 ---
 
-# 📖 About This Repository
+# About This Repository
 
 This repository documents my complete hands-on journey in **Amazon Web Services (AWS)**.
 
@@ -19,38 +19,21 @@ Instead of only learning theory, I perform practical implementations using the A
 
 Every topic includes:
 
-- 📘 Detailed Notes
-- 💻 Hands-on Labs
-- 🏗 Architecture Diagrams
-- 📸 AWS Console Screenshots
-- ❓ Interview Questions
-- 🧠 Key Learnings
-- ⚙ Production Concepts
+- Detailed Notes
+- Hands-on Labs
+- Architecture Diagrams
+- AWS Console Screenshots
+- Interview Questions
+- Key Learnings
+- Production Concepts
 
 This repository is continuously updated as I progress through my Cloud Computing training.
 
 ---
 
-# 👨‍💻 About Me
+# Technologies & AWS Services Covered
 
-Engineering Graduate | Aspiring Cloud & DevOps Engineer
-
-Currently learning and building projects using:
-
-- Amazon Web Services (AWS)
-- Linux Administration
-- Python
-- DevOps Fundamentals
-- Networking
-- Cloud Infrastructure
-
-My goal is to become a Cloud Engineer by building practical cloud solutions and maintaining a strong technical portfolio.
-
----
-
-# 🛠 Technologies & AWS Services Covered
-
-## ☁ Compute
+## Compute
 
 - Amazon EC2
 - Auto Scaling
@@ -58,7 +41,7 @@ My goal is to become a Cloud Engineer by building practical cloud solutions and 
 
 ---
 
-## 🌐 Networking
+## Networking
 
 - Amazon VPC
 - Internet Gateway
@@ -71,14 +54,14 @@ My goal is to become a Cloud Engineer by building practical cloud solutions and 
 
 ---
 
-## 💾 Storage
+## Storage
 
 - Amazon EBS
 - Amazon S3
 
 ---
 
-## 🗄 Databases
+## Databases
 
 - Amazon RDS
 - Amazon Aurora
@@ -86,7 +69,7 @@ My goal is to become a Cloud Engineer by building practical cloud solutions and 
 
 ---
 
-## 🔐 Security
+## Security
 
 - IAM Users
 - IAM Groups
@@ -95,27 +78,27 @@ My goal is to become a Cloud Engineer by building practical cloud solutions and 
 
 ---
 
-## 📊 Monitoring
+## Monitoring
 
 - Amazon CloudWatch
 - Amazon SNS
 
 ---
 
-## 🌍 Networking Services
+## Networking Services
 
 - Amazon Route 53
 
 ---
 
-## 💻 Operating Systems
+## Operating Systems
 
 - Amazon Linux 2023
 - Ubuntu Linux
 
 ---
 
-## ⚡ Tools
+## Tools
 
 - AWS CLI
 - Git
@@ -126,7 +109,7 @@ My goal is to become a Cloud Engineer by building practical cloud solutions and 
 
 ---
 
-# 📅 Learning Progress
+# Learning Progress
 
 | Day | Topic | Status |
 |------|-------------------------------|--------|
@@ -154,7 +137,7 @@ My goal is to become a Cloud Engineer by building practical cloud solutions and 
 
 ---
 
-# 🚀 Featured Hands-on Projects
+# Featured Hands-on Projects
 
 ## 🔹 Serverless EC2 Automation
 
@@ -202,15 +185,15 @@ Configured CloudWatch Alarms to monitor CPU utilization and automatically send e
 
 ---
 
-# 🏗 Skills Acquired
+# Skills Acquired
 
-✔ Amazon EC2 Deployment
+Amazon EC2 Deployment ✔
 
-✔ Linux Server Administration
+Linux Server Administration ✔ 
 
-✔ VPC Design & Networking
+VPC Design & Networking ✔ 
 
-✔ Load Balancing
+Load Balancing ✔ 
 
 ✔ Auto Scaling
 
