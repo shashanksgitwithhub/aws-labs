@@ -195,29 +195,29 @@ VPC Design & Networking ✔
 
 Load Balancing ✔ 
 
-✔ Auto Scaling
+Auto Scaling ✔ 
 
-✔ Storage Management
+Storage Management ✔ 
 
-✔ IAM & Security
+IAM & Security ✔ 
 
-✔ Serverless Computing
+Serverless Computing ✔ 
 
-✔ Event Driven Architecture
+Event Driven Architecture ✔ 
 
-✔ Database Deployment
+Database Deployment ✔ 
 
-✔ Infrastructure Monitoring
+Infrastructure Monitoring ✔ 
 
-✔ DNS Management
+DNS Management ✔ 
 
-✔ NoSQL Databases
+NoSQL Databases ✔ 
 
-✔ Cloud Architecture
+Cloud Architecture ✔ 
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```
 AWS-Cloud-Learning-Journey
@@ -269,7 +269,7 @@ AWS-Cloud-Learning-Journey
 
 ---
 
-# 📈 Current Learning Roadmap
+# Current Learning Roadmap
 
 ✔ AWS Fundamentals
 
@@ -287,7 +287,7 @@ AWS-Cloud-Learning-Journey
 
 ✔ Database Services
 
-🔄 Next:
+Next:
 
 - Docker
 - Kubernetes
@@ -299,13 +299,13 @@ AWS-Cloud-Learning-Journey
 
 ---
 
-# 🎯 Career Goal
+# Career Goal
 
 My objective is to become a skilled **Cloud Engineer / AWS Engineer / DevOps Engineer** by developing practical cloud solutions, understanding production architectures, and continuously improving my technical skills through real-world hands-on projects.
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shashank-tj-s050724/">
@@ -315,7 +315,7 @@ My objective is to become a skilled **Cloud Engineer / AWS Engineer / DevOps Eng
 
 ---
 
-# ⭐ Support
+# Support
 
 If you found this repository useful, consider giving it a ⭐.
 
@@ -325,4 +325,3 @@ It motivates me to continue learning, building, and sharing my cloud journey.
     <img src="https://img.shields.io/badge/GitHub-shashanksgitwithhub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
