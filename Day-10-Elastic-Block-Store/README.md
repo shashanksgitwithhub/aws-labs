@@ -263,7 +263,7 @@ Generally, an EBS volume can be attached to only one EC2 instance at a time (wit
 
 ---
 
-# Screenshots to Add
+# Screenshots
 
 * EBS Volume Creation<img width="1907" height="1008" alt="Screenshot 2026-07-10 223946" src="https://github.com/user-attachments/assets/0a26a514-5d04-4313-89b3-3b60b7d47c91" />
   <img width="1906" height="1010" alt="Screenshot 2026-07-10 223953" src="https://github.com/user-attachments/assets/24a8a9fb-8a55-417a-af2a-607db9a81662" />
