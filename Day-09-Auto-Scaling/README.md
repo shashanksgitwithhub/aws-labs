@@ -266,7 +266,7 @@ Yes. However, it is commonly used with an Application Load Balancer to distribut
 
 ---
 
-# Screenshots to Add
+# Screenshots
 
 * Launch Template Creation<img width="1907" height="1008" alt="Screenshot 2026-07-10 100902" src="https://github.com/user-attachments/assets/b83f9ace-4ac3-48c9-901f-03b4d1f75a6c" />
 
